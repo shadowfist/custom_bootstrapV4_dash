@@ -1,2 +1,2 @@
 # custom_bootstrapV4_dash
-A stripped down verison of the bootstrap dashboard template with a sticky footer.
+A stripped down verison of the bootstrap dashboard template with a sticky footer and a custom blue theme.
